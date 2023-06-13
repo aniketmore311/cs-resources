@@ -7,16 +7,16 @@
 - java (recommended for DS & Algo)
 
   - (book) Java: A Beginner's Guide, Book by Herbert Schildt
-  - [youtube course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
+  - [youtube course](https://www.youtube.com/watch?v=xk4_1vDrzzo) by bro code
 
 - javascript (recommended for development)
 
   - https://javascript.info/
   - (book) Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming by Marijn Haverbeke
-  - [youtube course](https://www.youtube.com/watch?v=8dWL3wF_OMw)
+  - [youtube course](https://www.youtube.com/watch?v=8dWL3wF_OMw) by bro code
 
 - python (recommended for general programming)
-  - [youtube course](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+  - [youtube course](https://www.youtube.com/watch?v=XKHEtdqhLK8) by bro code
 
 ## DS and Algo
 
@@ -73,7 +73,7 @@
   Book by Abraham Silerschatz, Henry F. Korth, and S. Sudarshan
 - (video course) [nptel course](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
 - SQL
-  - [youtube course](https://www.youtube.com/watch?v=5OdVJbNCSso)
+  - [youtube course](https://www.youtube.com/watch?v=5OdVJbNCSso) by bro code
   - https://www.sqltutorial.org/
   - https://www.sql-practice.com/
 
