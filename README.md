@@ -37,6 +37,8 @@ Everything else is extra material for reference
   - (video course) [algorithms part 1](https://www.coursera.org/learn/algorithms-part1) and [algorithms part 2](https://www.coursera.org/learn/algorithms-part2) by princeton university
   - [youtube course](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) by abdul bari
 - for specific topics
+  - stack and queue
+    - [youtube course](https://www.youtube.com/playlist?list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj) by striver ☑️
   - sorting algorithms
     - [youtube course](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) by mycodeschool
   - binary search
@@ -59,6 +61,8 @@ Everything else is extra material for reference
     - [youtube course](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) by aditya verma ☑️
     - [youtube course](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy) by pepcoding (level 1)
     - [youtube course](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEZvXCn-c5UIBvfT8dA-8EG) by pepcoding (level 2)
+  - trie
+    - [youtube course](https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp) by striver ☑️
 - problems
   - [striver SDE sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) of 190 problems ✅
   - [fraz sde sheet](https://leadcoding.in/dsa-sheet/) of 250 problems ✅
