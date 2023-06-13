@@ -72,12 +72,12 @@ Everything else is extra material for reference
 ### Operating Systems
 
 - (video course) [nptel course](https://www.youtube.com/playlist?list=PLsylUObW5M3CAGT6OdubyH6FztKfJCcFB) ✅
-- (book) Operating System Concepts by Abraham Silerschatz, Greg Gagne, and Peter Baer Galvin
+- (book) Operating System Concepts by Abraham Silerschatz, Greg Gagne, and Peter Baer Galvin ☑️
 
 ### Database Management System
 
 - (video course) [nptel course](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l) ✅
-- (book) Database System Concepts Book by Abraham Silerschatz, Henry F. Korth, and S. Sudarshan
+- (book) Database System Concepts Book by Abraham Silerschatz, Henry F. Korth, and S. Sudarshan ☑️
 - SQL
   - [youtube course](https://www.youtube.com/watch?v=5OdVJbNCSso) by bro code ✅
   - https://www.sqltutorial.org/ ☑️
@@ -87,4 +87,4 @@ Everything else is extra material for reference
 
 - (video course) [nptel course](https://www.youtube.com/playlist?list=PLbRMhDVUMngf-peFloB7kyiA40EptH1up) ✅
 - (book) Data Communications and Networking
-  Book by Behrouz A. Forouzan
+  Book by Behrouz A. Forouzan ☑️
