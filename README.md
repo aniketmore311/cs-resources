@@ -1,12 +1,13 @@
-# CS Resources
+<div style="text-align: center; margin-top: 10rem; margin-bottom: 10rem">
+<h2 style="font-size: 3rem;">Computer Science Resources</h2>
+<p><em>🛠️ List of resources for your cs education</em></p>
+</div>
 
 ✅ = Essential (must do)
 
 ☑️ = Highly Recommended
 
 Everything else is extra material for reference
-
-## Resources to learn all cs and programming subject and topics
 
 ## Languages
 
