@@ -20,9 +20,9 @@ Everything else is extra material for reference
   - [youtube course](https://www.yout️ube.com/watch?v=XKHEtdqhLK8) by bro code
 
 - javascript
+  - [youtube course](https://www.youtube.com/watch?v=8dWL3wF_OMw) by bro code
   - https://javascript.info/
   - (book) Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming by Marijn Haverbeke
-  - [youtube course](https://www.youtube.com/watch?v=8dWL3wF_OMw) by bro code
 
 ## DS and Algo
 
