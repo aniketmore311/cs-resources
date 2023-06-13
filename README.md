@@ -7,7 +7,7 @@
 - java (recommended for DS & Algo)
 
   - (book) Java: A Beginner's Guide, Book by Herbert Schildt
-  - [youtube course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
+  - [youtube course](https://www.youtube.com/watch?v=xk4_1vDrzzo){target="_blank"}
 
 - javascript (recommended for development)
 
