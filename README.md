@@ -1,9 +1,10 @@
+<hr/>
 <br/>
 <br/>
 <br/>
 <br/>
 
-# Computer Science Resources
+## Computer Science Resources
 
 <p><em>🛠️ List of resources for your cs education</em></p>
 
@@ -11,6 +12,8 @@
 <br/>
 <br/>
 <br/>
+<hr/>
+</br>
 
 ✅ = Essential (must do)
 
