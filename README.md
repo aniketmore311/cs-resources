@@ -1,7 +1,9 @@
-<div style="text-align: center; margin-top: 10rem; margin-bottom: 10rem">
-<h2 style="font-size: 3rem;">Computer Science Resources</h2>
+# Computer Science Resources
+
 <p><em>🛠️ List of resources for your cs education</em></p>
-</div>
+
+<br/>
+<br/>
 
 ✅ = Essential (must do)
 
